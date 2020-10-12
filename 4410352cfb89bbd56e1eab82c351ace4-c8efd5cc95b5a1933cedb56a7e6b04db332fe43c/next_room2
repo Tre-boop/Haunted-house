@@ -1,25 +1,35 @@
 public static void next_room2() {
-        System.out.println("You proceed to throught the door and arrive in what seems to be your grandpa's study.");
-        System.out.println("as you search around for clues you notice two book perturding from the bookcase.");
-        System.out.println("One is named The Art of War and the second one  War and Peace.\n Which book do you choose?\n Book 1 or book 2?");
+        System.out.println("you creep through the door with the spider door knob.");
+        System.out.println("once inside you notice that there only a stairchase. You procceed to go up the stairs, you arrive in the mansion's attic.");
+        System.out.println("There are two boxes one with descriptons on them. The first reads curiostiy killed the cat. The second one reads those that search will never be lost.");
+        System.out.println("Which box will you choose 1 or 2?")
         Scanner scanner = new Scanner(System.in);
-        int books = scanner.nextInt();
-        if (books == 1) {
-        System.out.println("You pull the first book and nothing seems to happen two doors appear in front of you.\n then all of the sudden you hear a bumps in the ceiling you reach for the nearest weapon to you.");
-        System.out.println("Two ghouls fall from the ceiling.\n you ready your lamp.\n How hard do you swing?");
+        int boxes = scanner.nextInt();
+        if (boxes == 2) {
+        System.out.println("You open the second box and a spider springs out at you tripping and hitting you head on the ground.\n You quikly gather yourself and notice that the spider is dead.\n you look back in the box and there is a key to unlock the door.";
+        userHealth - 1;
+        System.out.println("You notice there is a trap door cover by some boxes.\n You move them and take the key and you use it on the lock")
+        System.out.println("You see a torch and grab it as the room beomes a illunamted you notice another set of doors.\n The first door has a inscrition reading all great jounries must come to an end.\n The second door reads those that wander arent always lose. ")
+        }
+        else {
+        System.out.println("Suddenly a gaint tantula creeps out from the box!\n You search around the room for a weapon you find an antique mace.\n how hard do you attack?\n Enter number amount:");
         int power = scanner.nextInt();
-        if (power >= 3) {
-        System.out.println("You hit the first ghoul knocking it out cold, you rush the second ghoul and smash the lamp over it head!\n It falls to the fall like a bag of potatoes.");
-        System.out.println("you walk to the doors for a closer look.");
-        System.out.println("The door on the left has a spider orndement for a door knob. The second door has what seems like slime trickling down from the top.\n which door will you pick 1 or 2?");
-        } else {
-        System.out.println("You hit them all at once how ever it doesn't full incapticate one.\n It has enough time to scratch you.");
-        System.out.println("You take 3 damage.");
+        if (power >= 5) {
+        System.out.println("As luck with have it the mace was keep in excellent condition. \n So it was able to with stand your full strengh. Instantly reducing the spider to a plup.");
+        System.out.println("You look back in the first box seeing nothing was in there you moved on to the next box. \n Being prepare this time you poke the box and out jumps a dead spider. \n you grab the key and head over the tower of boxes. \n You move them out the way and you head throught the trap door. ");
+        System.out.println("You see a torch and grab it as the room beomes a illunamted you notice another set of doors.\n The first door has a inscrition reading all great jounries must come to an end.\n The second door reads those that wander arent always lose. ")
         }
         }
         else{
-        System.out.println("Book case turns revealing two doors.\n A wave of relief passes over you.\n you walk to the doors for a closer look.");
-        System.out.println("The door on the left has a spider orndement for a door knob. The second door has what seems like slime trickling down from the top.\n which door will you pick 1 or 2?");
+            int userHealth = scanner.nextInt;
+        int poison =7
+        for (i = 0; i < ghost; i++) {
+        userhealth -= 1;
+        System.out.println("You swing the old mace but you feel it crack mid swing. You slowed your strike to account for this, The sdiper was able to reach you and is able to bite you in the leg. You take another swing and kill it this time.");
+        System.out.println("you have this amount of health remaining:"+ userHealth);
+        System.out.println("You look back in the first box seeing nothing was in there you moved on to the next box. \n Being prepare this time you poke the box and out jumps a dead spider. \n you grab the key and head over the tower of boxes. \n You move them out the way and you head throught the trap door. ");
+        System.out.println("You see a torch and grab it as the room beomes a illunamted you notice another set of doors.\n The first door has a inscrition reading all great jounries must come to an end.\n The second door reads those that wander arent always lose. ")
+        }
 // describes room with code and repeat.}
         }
         }

@@ -1,0 +1,7 @@
+public static void test_room {
+    int userhealth = scanner.nextInt;
+    int ghost =5
+    for (i = 0; i < ghost; i++) {
+        userhealth -= 1;
+        }
+        }

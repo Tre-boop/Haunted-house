@@ -25,7 +25,15 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="188ca526-1ae1-4980-bca6-8394d4295224" name="Default Changelist" comment="change" />
+    <list default="true" id="188ca526-1ae1-4980-bca6-8394d4295224" name="Default Changelist" comment="change">
+      <change afterPath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/test room" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/Hauntedhouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/Hauntedhouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room.java" beforeDir="false" afterPath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room2" beforeDir="false" afterPath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room2.1" beforeDir="false" afterPath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room2.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room3" beforeDir="false" afterPath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room3" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +52,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Scratch" type="Java Scratch" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scratch" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -55,6 +74,14 @@
       <option name="presentableId" value="Default" />
       <updated>1602106914796</updated>
     </task>
+    <task id="LOCAL-00001" summary="lol">
+      <created>1602115396162</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602115396162</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,20 +94,59 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lol" />
+    <option name="LAST_COMMIT_MESSAGE" value="lol" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="553" y="231" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602113547785">
+    <state x="254" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602200290772">
+      <screen x="0" y="0" width="1600" height="836" />
+    </state>
+    <state x="254" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.836/1600.0.1440.860@0.0.1600.836" timestamp="1602200290772" />
+    <state x="553" y="225" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602200330356">
+      <screen x="0" y="0" width="1600" height="836" />
+    </state>
+    <state x="553" y="225" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.836/1600.0.1440.860@0.0.1600.836" timestamp="1602200330356" />
+    <state x="2098" y="231" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.836/1600.0.1440.860@1600.0.1440.860" timestamp="1602197813223" />
+    <state x="553" y="231" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1602113547785" />
+    <state x="483" y="284" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1602115646216">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="553" y="231" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1602113547785" />
+    <state x="483" y="284" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1602115646216" />
     <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1602113820672">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1602113820672" />
-    <state x="301" y="74" key="SettingsEditor" timestamp="1602114963097">
+    <state width="1557" height="202" key="GridCell.Tab.0.bottom" timestamp="1602200798337">
+      <screen x="0" y="0" width="1600" height="836" />
+    </state>
+    <state width="1557" height="202" key="GridCell.Tab.0.bottom/0.0.1600.836/1600.0.1440.860@0.0.1600.836" timestamp="1602200798337" />
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1600.836/1600.0.1440.860@1600.0.1440.860" timestamp="1602198502166" />
+    <state width="1557" height="202" key="GridCell.Tab.0.center" timestamp="1602200798337">
+      <screen x="0" y="0" width="1600" height="836" />
+    </state>
+    <state width="1557" height="202" key="GridCell.Tab.0.center/0.0.1600.836/1600.0.1440.860@0.0.1600.836" timestamp="1602200798337" />
+    <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1600.836/1600.0.1440.860@1600.0.1440.860" timestamp="1602198502166" />
+    <state width="1557" height="202" key="GridCell.Tab.0.left" timestamp="1602200798337">
+      <screen x="0" y="0" width="1600" height="836" />
+    </state>
+    <state width="1557" height="202" key="GridCell.Tab.0.left/0.0.1600.836/1600.0.1440.860@0.0.1600.836" timestamp="1602200798337" />
+    <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1600.836/1600.0.1440.860@1600.0.1440.860" timestamp="1602198502166" />
+    <state width="1557" height="202" key="GridCell.Tab.0.right" timestamp="1602200798337">
+      <screen x="0" y="0" width="1600" height="836" />
+    </state>
+    <state width="1557" height="202" key="GridCell.Tab.0.right/0.0.1600.836/1600.0.1440.860@0.0.1600.836" timestamp="1602200798337" />
+    <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1600.836/1600.0.1440.860@1600.0.1440.860" timestamp="1602198502166" />
+    <state x="301" y="74" key="SettingsEditor" timestamp="1602116340863">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="301" y="74" key="SettingsEditor/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1602114963097" />
+    <state x="301" y="74" key="SettingsEditor/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1602116340863" />
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2" timestamp="1602115411188">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1602115411188" />
     <state x="463" y="180" key="search.everywhere.popup" timestamp="1602113245886">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
