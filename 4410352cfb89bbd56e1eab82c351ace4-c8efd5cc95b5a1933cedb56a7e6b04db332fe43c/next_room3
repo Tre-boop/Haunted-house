@@ -1,6 +1,6 @@
 import java.util.Scanner
 class scratch {
-        public static void next_room() {
+        public static void next_room3() {
                 System.out.println("with a bit of force you open the slime ridden door.\n your now in a room that seems to be like the boiler room.\n However it cover in a thick bright green goo.");
                 System.out.println("As you explore the room making sure to avoid the goo. You find two mysterious machines named -- -.\n You figure that these machine are the way out of this room");
                 System.out.println("As you are scearching around the machines on the back of them you know strange engraving.\n you make out the first machine's engraving");
