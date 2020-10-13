@@ -26,12 +26,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="188ca526-1ae1-4980-bca6-8394d4295224" name="Default Changelist" comment="change">
-      <change afterPath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/test room" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/Hauntedhouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/Hauntedhouse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room.java" beforeDir="false" afterPath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room2" beforeDir="false" afterPath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room2.1" beforeDir="false" afterPath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room2.1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room3" beforeDir="false" afterPath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +54,14 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Java Scratch.Scratch (1)">
+    <configuration name="Scratch (1)" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scratch" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Scratch" type="Java Scratch" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Scratch" />
       <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
@@ -64,6 +69,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Java Scratch.Scratch (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -81,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602115396162</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix them up a bit">
+      <created>1602533910467</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602533910467</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,13 +115,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lol" />
-    <option name="LAST_COMMIT_MESSAGE" value="lol" />
+    <MESSAGE value="fix them up a bit" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix them up a bit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="254" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602200290772">
+    <state x="254" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602544523136">
       <screen x="0" y="0" width="1600" height="836" />
     </state>
-    <state x="254" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.836/1600.0.1440.860@0.0.1600.836" timestamp="1602200290772" />
+    <state x="254" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.836/1600.0.1440.860@0.0.1600.836" timestamp="1602544523136" />
     <state x="553" y="225" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602200330356">
       <screen x="0" y="0" width="1600" height="836" />
     </state>
@@ -119,25 +137,25 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1602113820672" />
-    <state width="1557" height="202" key="GridCell.Tab.0.bottom" timestamp="1602200798337">
+    <state width="1557" height="202" key="GridCell.Tab.0.bottom" timestamp="1602545031858">
       <screen x="0" y="0" width="1600" height="836" />
     </state>
-    <state width="1557" height="202" key="GridCell.Tab.0.bottom/0.0.1600.836/1600.0.1440.860@0.0.1600.836" timestamp="1602200798337" />
+    <state width="1557" height="202" key="GridCell.Tab.0.bottom/0.0.1600.836/1600.0.1440.860@0.0.1600.836" timestamp="1602545031858" />
     <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1600.836/1600.0.1440.860@1600.0.1440.860" timestamp="1602198502166" />
-    <state width="1557" height="202" key="GridCell.Tab.0.center" timestamp="1602200798337">
+    <state width="1557" height="202" key="GridCell.Tab.0.center" timestamp="1602545031858">
       <screen x="0" y="0" width="1600" height="836" />
     </state>
-    <state width="1557" height="202" key="GridCell.Tab.0.center/0.0.1600.836/1600.0.1440.860@0.0.1600.836" timestamp="1602200798337" />
+    <state width="1557" height="202" key="GridCell.Tab.0.center/0.0.1600.836/1600.0.1440.860@0.0.1600.836" timestamp="1602545031858" />
     <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1600.836/1600.0.1440.860@1600.0.1440.860" timestamp="1602198502166" />
-    <state width="1557" height="202" key="GridCell.Tab.0.left" timestamp="1602200798337">
+    <state width="1557" height="202" key="GridCell.Tab.0.left" timestamp="1602545031858">
       <screen x="0" y="0" width="1600" height="836" />
     </state>
-    <state width="1557" height="202" key="GridCell.Tab.0.left/0.0.1600.836/1600.0.1440.860@0.0.1600.836" timestamp="1602200798337" />
+    <state width="1557" height="202" key="GridCell.Tab.0.left/0.0.1600.836/1600.0.1440.860@0.0.1600.836" timestamp="1602545031858" />
     <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1600.836/1600.0.1440.860@1600.0.1440.860" timestamp="1602198502166" />
-    <state width="1557" height="202" key="GridCell.Tab.0.right" timestamp="1602200798337">
+    <state width="1557" height="202" key="GridCell.Tab.0.right" timestamp="1602545031858">
       <screen x="0" y="0" width="1600" height="836" />
     </state>
-    <state width="1557" height="202" key="GridCell.Tab.0.right/0.0.1600.836/1600.0.1440.860@0.0.1600.836" timestamp="1602200798337" />
+    <state width="1557" height="202" key="GridCell.Tab.0.right/0.0.1600.836/1600.0.1440.860@0.0.1600.836" timestamp="1602545031858" />
     <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1600.836/1600.0.1440.860@1600.0.1440.860" timestamp="1602198502166" />
     <state x="301" y="74" key="SettingsEditor" timestamp="1602116340863">
       <screen x="0" y="0" width="1600" height="860" />

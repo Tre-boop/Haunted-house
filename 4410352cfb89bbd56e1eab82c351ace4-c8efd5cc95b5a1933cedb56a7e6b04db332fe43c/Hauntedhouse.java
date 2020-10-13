@@ -5,7 +5,7 @@ public class scratch {
         Scanner scanner = new Scanner(System.in);
         System.out.println("After recieveing a letter from your late grand father you arrive at his estate.");
         System.out.println("you enter the masion and the door suddenly slams shut and you here a click. You are trapped, but you notice three doors in front of you.");
-        System.out.println("Set your health amount: ( amount is recommend)");
+        System.out.println("Set your health amount: (25 amount is recommend)");
         int userHealth = scanner.nextInt();
         while (true) {
             System.out.println("Which door do you choose?");
