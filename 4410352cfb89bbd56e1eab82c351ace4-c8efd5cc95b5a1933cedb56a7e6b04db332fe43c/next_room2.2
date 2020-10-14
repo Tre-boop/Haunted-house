@@ -1,3 +1,57 @@
-public static void next_room22 {
-kitchen
+public static void next_room22() {
+
+        System.out.println("You creep through the door with a strange reflection to it. You're hit with a bright light once your through.");
+
+        System.out.println("After your eyes adjust, you see what seems to be a room surrounded by mirrors.");
+
+        System.out.println("You turn behind you to check if the door is still there but it now just a mirror.\nIn the center of the room you see two pedestal.");
+
+        System.out.println("The first is the key to your grandfather's estate and his fortune.\nThe second one is a fishing rod that you used when you were younger with your grandfather.");
+
+        System.out.println("Which one will you choose? 1 or 2?");
+
+        Scanner scanner = new Scanner(System.in);
+
+        int ped = scanner.nextInt();
+
+        switch (ped) {
+
+        case 1:
+
+        System.out.println("You grab the keys and his will. You then hear is this what you really came here for? My own kin just came for personal gain.");
+
+        System.out.println("I thought you were better then this. The voice starts to fade. The room then starts to fill with a dark gaseous substance.");
+
+        System.out.println("you start grasping for air and realize you fate. You blackout. You have died");
+
+        System.out.println("Congrats on the Bad ending.\nThank you for playing.");
+
+        System.exit(5);
+
+        break;
+
+        case 2:
+
+        System.out.println("You grab the fishing rod. From the corner of your eye you see something materialize. Your grandfather appears, he smiles at you.");
+
+        System.out.println("He walks over and grabs the keys and his will and hands it to you.\nYour grandfather then says I knew you were always the amazing person I thought you were. I just needed to make sure you were still the same as before.");
+
+        System.out.println("They are yours to have. You cut him off and ask is there any way to save him.\nHe smiles at you and said no Im too far gone the last good deed i can do for this world is to purify this of it evil.");
+
+        System.out.println("He brings up a door and ushers you out. He smiles at you one last time and says goodbye. You then see the house start shimmer brilliantly in a white glow.");
+
+        System.out.println("The evil feeling you can feel from the house is now gone and the house is now white");
+
+        System.out.println("Congrats on the Test ending.\nThank you for playing.");
+
+        System.exit(6);
+
+        break;
+
+default:
+
+        System.out.println("Invalid answer please try again.");
+
+        }
+
         }

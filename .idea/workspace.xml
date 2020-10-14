@@ -26,7 +26,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="188ca526-1ae1-4980-bca6-8394d4295224" name="Default Changelist" comment="change">
+      <change afterPath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room!" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room.java" beforeDir="false" afterPath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room2" beforeDir="false" afterPath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room2.1" beforeDir="false" afterPath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room2.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room2.2" beforeDir="false" afterPath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room2.2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room3" beforeDir="false" afterPath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room3.1" beforeDir="false" afterPath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room3.1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room3.2" beforeDir="false" afterPath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room3.2" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602626903363</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="closer to done">
+      <created>1602637170424</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602637170424</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,17 +142,18 @@
     <MESSAGE value="lol" />
     <MESSAGE value="fix them up a bit" />
     <MESSAGE value="near done" />
-    <option name="LAST_COMMIT_MESSAGE" value="near done" />
+    <MESSAGE value="closer to done" />
+    <option name="LAST_COMMIT_MESSAGE" value="closer to done" />
   </component>
   <component name="WindowStateProjectService">
     <state x="254" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602544523136">
       <screen x="0" y="0" width="1600" height="836" />
     </state>
     <state x="254" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.836/1600.0.1440.860@0.0.1600.836" timestamp="1602544523136" />
-    <state x="553" y="225" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602200330356">
+    <state x="553" y="225" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602676035756">
       <screen x="0" y="0" width="1600" height="836" />
     </state>
-    <state x="553" y="225" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.836/1600.0.1440.860@0.0.1600.836" timestamp="1602200330356" />
+    <state x="553" y="225" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.836/1600.0.1440.860@0.0.1600.836" timestamp="1602676035756" />
     <state x="2098" y="231" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.836/1600.0.1440.860@1600.0.1440.860" timestamp="1602197813223" />
     <state x="553" y="231" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1602113547785" />
     <state x="480" y="153" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602606558407">
@@ -196,25 +212,14 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="74" key="SettingsEditor/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1602116340863" />
-    <state x="392" y="157" key="Vcs.Push.Dialog.v2" timestamp="1602632456027">
+    <state x="392" y="157" key="Vcs.Push.Dialog.v2" timestamp="1602637179500">
       <screen x="0" y="0" width="1600" height="836" />
     </state>
-    <state x="392" y="157" key="Vcs.Push.Dialog.v2/0.0.1600.836/1600.0.1440.860@0.0.1600.836" timestamp="1602632456027" />
+    <state x="392" y="157" key="Vcs.Push.Dialog.v2/0.0.1600.836/1600.0.1440.860@0.0.1600.836" timestamp="1602637179500" />
     <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1602115411188" />
     <state x="463" y="180" key="search.everywhere.popup" timestamp="1602113245886">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="463" y="180" key="search.everywhere.popup/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1602113245886" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java</url>
-          <line>119</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

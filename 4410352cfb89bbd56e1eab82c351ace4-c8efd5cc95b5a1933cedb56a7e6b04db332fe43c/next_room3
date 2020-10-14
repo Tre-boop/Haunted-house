@@ -1,34 +1,85 @@
-import java.util.Scanner
-class scratch {
-        public static void next_room3() {
-                System.out.println("with a bit of force you open the slime ridden door.\n your now in a room that seems to be like the boiler room.\n However it cover in a thick bright green goo.");
-                System.out.println("As you explore the room making sure to avoid the goo. You find two mysterious machines named -- -.\n You figure that these machine are the way out of this room");
-                System.out.println("As you are scearching around the machines on the back of them you know strange engraving.\n you make out the first machine's engraving");
-                System.out.println("It reads salvación.\n The second machine looks more decript and it harder to make out after a small bit of time you figure out.")
-                System.out.println("It reads peligro.");
-                System.out.println("You know that you have to activate one of them to get out of this room.\n Which machine do you choose?\n Manchine 1 or 2?")
-                Scanner scanner = new scanner(System.in);
-                int machines = scanner.nextInt();
-                if (machines == 1) {
-                        System.out.println("You start to hear the manchine come to life. It heaves and rumbles as if a old man.\n With a loud pop it finally starting runnging properly.");
-                        System.out.println("You then notice that a wall starts to slide into the ground.\n it reveals two doors.");
-                } else {
-                        System.out.println("The Second machine starts to run smoothly no apparent issues. All of a sudden it starts to smoke and screech");
-                        System.out.println("You start to worry and you find a wrench. Fearing that the machine will blow you hit it in a desprite attempt.");
-                        System.out.println("How hard do you hit it? enter a number:");
-                        int wack = scanner.nextInt();
-                        if (wack is == 1) {
-                                System.out.println("The machine lets out a whine but then settles down. You hear a loud slam. You intsintly turn around.\n Then notice that there are now two doors.");
-                        } else {
-                                int explosion = 5;
-                                for (int x = 0;x < explosion; x++) {
-                                        userHealth -= 1;
-                                        }
-                                System.out.println("You hit the machine and instantly feel a wave of regret as the machine starts to shake violebtly.");
-                                System.out.println("The Machine starts to glow briliantly and then explodes.\n after a bit of time you waken and notice the room is now in shambles.");
-                                System.out.println("malicouly you are okay but of course a bit ding up.\n your health is now:" + userHealth);
-                                System.out.println("As you gather your self you notice that a wall used to be there is now a stack of rumble.\n Behind it is two doors.\n The first door is freezing to the touch and almost fells like metallic.");
-                                System.out.println("The second door is strangely reflective. Almost as if it a mirror.");
-                }
+public static void next_room3() {
+
+        System.out.println("With a bit of force you open the slime ridden door.\nYour now in a room that seems to be like the boiler room.\nHowever it cover in a thick bright green goo.");
+
+        System.out.println("As you explore the room making sure to avoid the goo. You find two mysterious machines.\nYou figure that these machine are the way out of this room");
+
+        System.out.println("As you are searching around the machines on the back of them you know strange engraving.\nYou make out the first machine's engraving");
+
+        System.out.println("It reads salvación.\nThe second machine looks more decrypt and it harder to make out after a small bit of time you figure out.");
+
+        System.out.println("It reads peligro.");
+
+        System.out.println("You know that you have to activate one of them to get out of this room.\nWhich machine do you choose?\nMachine 1 or 2?");
+
+        Scanner scanner = new Scanner(System.in);
+
+        int machines = scanner.nextInt();
+
+        if (machines == 1) {
+
+        System.out.println("You start to hear the machine come to life. It heaves and rumbles as if a old man.\nWith a loud pop it finally starting running properly.");
+
+        System.out.println("You then notice that a wall starts to slide into the ground.\nIt reveals two doors.");
+
+        } else {
+
+        System.out.println("The second machine starts to run smoothly no apparent issues. All of a sudden it starts to smoke and screech");
+
+        System.out.println("You start to worry and you find a wrench. Fearing that the machine will blow you hit it in a desperate attempt.");
+
+        System.out.println("How hard do you hit it? enter a number:");
+
+        int wack = scanner.nextInt();
+
+        if (wack == 1) {
+
+        System.out.println("The machine lets out a whine but then settles down. You hear a loud slam. You instinctively turn around.\nThen notice that there are now two doors.");
+
+        } else {
+
+        int explosion = 5;
+
+        for (int x = 0; x < explosion; x++) {
+
+        userHealth -= 1;
+
         }
-}
+
+        System.out.println("You hit the machine and instantly feel a wave of regret as the machine starts to shake violently.");
+
+        System.out.println("The Machine starts to glow brilliantly and then explodes.\n after a bit of time you waken and notice the room is now in shambles.");
+
+        System.out.println("Miraculously you are okay but of course a bit ding up.\nYour health is now:" + userHealth);
+
+        System.out.println("As you gather your self you notice that a wall used to be there is now a stack of rumble.\nBehind it is two doors.\nThe first door is freezing to the touch and almost fells like metallic.");
+
+        System.out.println("The second door is rather small as if only a child could walk through it.\nWhich door do you choose 1 or 2?");
+
+        int finchoice = scanner.nextInt();
+
+        switch (finchoice) {
+
+        case 1:
+
+        next_room31();
+
+        case 2:
+
+        next_room32();
+
+default:
+
+        System.out.println("Invalid answer please try again.");
+
+        break;
+
+        }
+
+
+
+        }
+
+        }
+
+        }

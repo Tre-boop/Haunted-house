@@ -1,37 +1,83 @@
-import java.util.Scanner;
-class Scratch {
-    public static void main(String[] args) {
-        System.out.println("you creep through the door with the spider door knob.");
-        System.out.println("once inside you notice that there only a stairchase. You procceed to go up the stairs, you arrive in the mansion's attic.");
-        System.out.println("There are two boxes one with descriptons on them. The first reads curiostiy killed the cat. The second one reads those that searching will never be lost.");
+public static void next_room2() {
+
+        System.out.println("You creep through the door with the spider door knob.");
+
+        System.out.println("Once inside you notice that there only a staircase. You proceed to go up the stairs, you arrive in the mansion's attic.");
+
+        System.out.println("There are two boxes one with descriptions on them. The first reads curiosity killed the cat. The second one reads those that searching will never be lost.");
+
         System.out.println("Which box will you choose 1 or 2?");
-        System.out.println("Please reinput current health amount");
+
         Scanner scanner = new Scanner(System.in);
-        int userHealth = scanner.nextInt();
+
         int boxes = scanner.nextInt();
+
         if (boxes == 2) {
-            System.out.println("You open the second box and a spider springs out at you tripping and hitting you head on the ground.\n You quikly gather yourself and notice that the spider is dead.\n you look back in the box and there is a key to unlock the door.");
-            userHealth -= 1;
-            System.out.println(userHealth);
-            System.out.println("You notice there is a trap door cover by some boxes.\n You move them and take the key and you use it on the lock");
-            System.out.println("You see a torch and grab it as the room beomes a illunamted you notice another set of doors.\n The first door has a inscrition reading all great jounries must come to an end.\n The second door reads those that wander arent always lose. ");
+
+        System.out.println("You open the second box and a spider springs out at you tripping and hitting you head on the ground.\nYou quickly gather yourself and notice that the spider is dead.\nYou look back in the box and there is a key to unlock the door.");
+
+        userHealth -= 1;
+
+        System.out.println(userHealth);
+
+        System.out.println("You notice there is a trap door cover by some boxes.\nYou move them and take the key and you use it on the lock.");
+
+        System.out.println("You see a torch and grab it as the room becomes illuminated you notice another set of doors.\nThe first door has a inscription reading all great journeys must come to an end.\nThe second door reads those that wander arent always lose.");
+
         } else {
-            System.out.println("Suddenly a gaint tantula creeps out from the box!\n You search around the room for a weapon you find an antique mace.\n how hard do you attack?\n Enter number amount:");
-            int power = scanner.nextInt();
-            if (power >= 5) {
-                System.out.println("As luck with have it the mace was keep in excellent condition. \n So it was able to with stand your full strengh. Instantly reducing the spider to a plup.");
-                System.out.println("You look back in the first box seeing nothing was in there you moved on to the next box. \n Being prepare this time you poke the box and out jumps a dead spider. \n you grab the key and head over the tower of boxes. \n You move them out the way and you head throught the trap door. ");
-                System.out.println("You see a torch and grab it as the room beomes a illunamted you notice another set of doors.\n The first door has a inscrition reading all great jounries must come to an end.\n The second door reads those that wander arent always lose. ");
-            } else {
-                int poison = 7;
-                for (int i = 0; i < poison; i++) {
-                    userHealth -= 1;
-                }
-                System.out.println("You swing the old mace but you feel it crack mid swing. You slowed your strike to account for this, The sdiper was able to reach you and is able to bite you in the leg. You take another swing and kill it this time.");
-                System.out.println("you have this amount of health remaining:" + userHealth);
-                System.out.println("You look back in the first box seeing nothing was in there you moved on to the next box. \n Being prepare this time you poke the box and out jumps a dead spider. \n you grab the key and head over the tower of boxes. \n You move them out the way and you head throught the trap door. ");
-                System.out.println("You see a torch and grab it as the room beomes a illunamted you notice another set of doors.\n The first door has a inscrition reading all great jounries must come to an end.\n The second door reads those that wander arent always lose. ");
-            }
+
+        System.out.println("Suddenly a giant tarantula creeps out from the box!\nYou search around the room for a weapon you find an antique mace.\nHow hard do you attack?\nEnter number amount:");
+
+        int power = scanner.nextInt();
+
+        if (power >= 5) {
+
+        System.out.println("As luck with have it the mace was keep in excellent condition.\nSo it was able to with stand your full strength. Instantly reducing the spider to a pulp.");
+
+        System.out.println("You look back in the first box seeing nothing was in there you moved on to the next box.\nBeing prepare this time you poke the box and out jumps a dead spider.\nyou grab the key and head over the tower of boxes.\nYou move them out the way and you head throught the trap door.");
+
+        System.out.println("You see a torch and grab it as the room becomes a illuminated you notice another set of doors.\nThe first door has a inscription reading all great journeys must come to an end.\nThe second door reads those that wander arent always lose.");
+
+        } else {
+
+        int poison = 7;
+
+        for (int i = 0; i < poison; i++) {
+
+        userHealth -= 1;
+
         }
-    }
-}
+
+        System.out.println("You swing the old mace but you feel it crack mid swing. You slowed your strike to account for this, The spider was able to reach you and is able to bite you in the leg. You take another swing and kill it this time.");
+
+        System.out.println("You have this amount of health remaining:" + userHealth);
+
+        }
+
+        }
+
+        System.out.println("You look back in the first box seeing nothing was in there you moved on to the next box.\nBeing prepare this time you poke the box and out jumps a dead spider.\nYou grab the key and head over the tower of boxes.\nYou move them out the way and you head through the trap door.");
+
+        System.out.println("You see a torch and grab it as the room becomes a illuminated you notice another set of doors.\nThe first door has a inscription reading all great journeys must come to an end.\nThe second door reads those that wander arent always lose.");
+
+        System.out.println("Which door do you choose:");
+
+        int rooms = scanner.nextInt();
+
+        switch (rooms) {
+
+        case 1:
+
+        next_room21();
+
+        case 2:
+
+        next_room22();
+
+default:
+
+        System.out.println("Invalid answer please try again.");
+
+        }
+
+        }

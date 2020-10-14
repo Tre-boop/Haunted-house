@@ -1,0 +1,6 @@
+public static void next_room!() {
+    System.out.println("As you open the third door you get a sinking feeling.");
+    System.out.println("You are relucant to look down, you look down and notice there is no floor.");
+    System.out.println("you fall to your death");
+    System.exit(4);
+        }
