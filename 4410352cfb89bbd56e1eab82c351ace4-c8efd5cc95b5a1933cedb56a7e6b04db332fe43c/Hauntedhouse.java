@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Hauntehouse {
+class Hauntedhouse {
     public static int userHealth;
 
     public static void main(String[] args) {

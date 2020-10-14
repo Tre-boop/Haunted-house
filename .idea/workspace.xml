@@ -25,16 +25,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="188ca526-1ae1-4980-bca6-8394d4295224" name="Default Changelist" comment="change">
-      <change afterPath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room!" afterDir="false" />
+    <list default="true" id="188ca526-1ae1-4980-bca6-8394d4295224" name="Default Changelist" comment="i forgot to mov it">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room.java" beforeDir="false" afterPath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room2" beforeDir="false" afterPath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room2.1" beforeDir="false" afterPath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room2.1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room2.2" beforeDir="false" afterPath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room2.2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room3" beforeDir="false" afterPath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room3.1" beforeDir="false" afterPath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room3.1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room3.2" beforeDir="false" afterPath="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/next_room3.2" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,10 +47,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/Hauntedhouse.java" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
-  <component name="RunManager" selected="Java Scratch.Scratch">
+  <component name="RunManager" selected="Java Scratch.Hauntedhouse">
+    <configuration name="Hauntedhouse" type="Java Scratch" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hauntedhouse" />
+      <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/4410352cfb89bbd56e1eab82c351ace4-c8efd5cc95b5a1933cedb56a7e6b04db332fe43c/Hauntedhouse.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Scratch (1)" type="Java Scratch" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Scratch" />
       <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" />
@@ -66,13 +66,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scratch" type="Java Scratch" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Scratch" />
-      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Java Scratch.Hauntedhouse" />
+      <item itemvalue="Java Scratch.Scratch (1)" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Java Scratch.Scratch (1)" />
@@ -123,7 +120,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602637170424</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="My part done">
+      <created>1602686484139</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602686484139</updated>
+    </task>
+    <task id="LOCAL-00007" summary="i forgot to mov it">
+      <created>1602686652117</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602686652117</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,13 +154,15 @@
     <MESSAGE value="fix them up a bit" />
     <MESSAGE value="near done" />
     <MESSAGE value="closer to done" />
-    <option name="LAST_COMMIT_MESSAGE" value="closer to done" />
+    <MESSAGE value="My part done" />
+    <MESSAGE value="i forgot to mov it" />
+    <option name="LAST_COMMIT_MESSAGE" value="i forgot to mov it" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="254" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602544523136">
+    <state x="254" y="72" width="1092" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602687140526">
       <screen x="0" y="0" width="1600" height="836" />
     </state>
-    <state x="254" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.836/1600.0.1440.860@0.0.1600.836" timestamp="1602544523136" />
+    <state x="254" y="72" width="1092" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.836/1600.0.1440.860@0.0.1600.836" timestamp="1602687140526" />
     <state x="553" y="225" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602676035756">
       <screen x="0" y="0" width="1600" height="836" />
     </state>
@@ -168,9 +181,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="483" y="284" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1602115646216" />
-    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1602113820672">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="580" y="179" key="FileChooserDialogImpl" timestamp="1602687138943">
+      <screen x="0" y="0" width="1600" height="836" />
     </state>
+    <state x="580" y="179" key="FileChooserDialogImpl/0.0.1600.836/1600.0.1440.860@0.0.1600.836" timestamp="1602687138943" />
     <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1602113820672" />
     <state width="1557" height="202" key="GridCell.Tab.0.bottom" timestamp="1602632511055">
       <screen x="0" y="0" width="1600" height="836" />
@@ -212,10 +226,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="74" key="SettingsEditor/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1602116340863" />
-    <state x="392" y="157" key="Vcs.Push.Dialog.v2" timestamp="1602637179500">
+    <state x="392" y="157" key="Vcs.Push.Dialog.v2" timestamp="1602686511082">
       <screen x="0" y="0" width="1600" height="836" />
     </state>
-    <state x="392" y="157" key="Vcs.Push.Dialog.v2/0.0.1600.836/1600.0.1440.860@0.0.1600.836" timestamp="1602637179500" />
+    <state x="392" y="157" key="Vcs.Push.Dialog.v2/0.0.1600.836/1600.0.1440.860@0.0.1600.836" timestamp="1602686511082" />
     <state x="392" y="162" key="Vcs.Push.Dialog.v2/0.0.1600.860/1600.0.1440.860@0.0.1600.860" timestamp="1602115411188" />
     <state x="463" y="180" key="search.everywhere.popup" timestamp="1602113245886">
       <screen x="0" y="0" width="1600" height="860" />
